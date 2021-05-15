@@ -1,4 +1,4 @@
-#RESOLUÇÃO
+# RESOLUÇÃO <h1>
 
 *1. Faça um algoritmo que mostre o passo a passo de uma troca de lâmpada queimada.*
 
